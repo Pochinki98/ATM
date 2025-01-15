@@ -1,3 +1,5 @@
+//禁止贩卖该项目。提交时注意删去此行注释否则后果自负。
+
 #include <bits/stdc++.h>
 #include <conio.h>
 using namespace std;
