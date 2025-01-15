@@ -5,7 +5,7 @@
 <br>但是你可以参考我的源代码或实验报告并且在此的基础上做出修改并上交。
 <br>项目内有注释以便理解。
 <br><br>这个项目个人感觉写得一般毕竟只是期末的Project而已。但是已经足以在程序设计课程拿好一点的分数了。
-<br>LISENCE:禁止贩卖该项目或用作其他牟利行为。倒卖该开源项目的死妈。
+<br>LISENCE:**禁止贩卖该项目或用作其他牟利行为。倒卖该开源项目的死妈。**
 ##
 <div align="center">
   <a href="https://cqu.edu.cn"><img src="https://www2.cqu.edu.cn/Uploads/CQUmain/nowvi.png" width="227.2" height="71.7" alt="CQUlogo"></a>
